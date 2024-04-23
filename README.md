@@ -1,11 +1,11 @@
 # Задача "Towel Sort"
-## Задание:
-[Click here!](https://github.com/rolling-scopes-school/towel-sort/)
+### Задание:  [Click here!](https://github.com/rolling-scopes-school/towel-sort/)
 
-## Описание:
+
+### Описание:
 **"Towel Sort"** - задача алгоритм «сортировки полотенец».<br>
 Проект создавался в рамках прохождения stage#1 факультета "Frontend-разработчик" Rolling Scopes School.<br>
 
-## Технологии:
+### Технологии:
 - JavaScript
 - Node.js
